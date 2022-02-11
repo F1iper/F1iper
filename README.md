@@ -1,10 +1,11 @@
 ##  Hey there, I'm Fliper 👋
 
-### I'm Husband, Father, 📸 Drone enthusiast and wannabe ✨ Java Developer.
+### During the day - a husband and a caring father whereas at night I become a passionate Java developer.
+ 
 
-- 🔭 2022 goals: Join open-source project related to Java and Spring + 🔥 **Find an IT job.**
-- 📖 I'm currently learning Spring Security and Docker.
-- 🚀 And having fun with Raspberry pi and linux.
+- 🔭 2022 goals: Join open-source project related to Java and Spring + 🔥 **Find a job in IT sector.**
+- 📖 Present task: Learn Spring Security and Docker well enough to use it fluently.
+- 🚀 I have many hobbies, but the one I am really fond of is 📸 Aerial photography.
 - ⚡️ Fun fact: !(I crashed only **one** drone!)
 
 ---
