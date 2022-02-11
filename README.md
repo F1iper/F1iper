@@ -58,7 +58,7 @@
 [<img src="https://img.shields.io/badge/Stack%20Overflow-282C34?style=for-the-badge&logo=stackoverflow&logoColor=FE7A16" alt="Stack Overflow logo" title="Stack Overflow" height="27px" />](https://stackoverflow.com/users/11972767/fliper)
 
 ### 🤜🤛 I'm happy to be part of the great IT community - Zaprogramuj Życie:
-<img align="center" src="https://github.com/F1iper/F1iper/blob/master/Zaprogramuj_zycie_logo-04.png" width=15% height=15%> [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)][discord] 
+<img align="center" src="https://github.com/F1iper/F1iper/blob/master/logo-profil-circle_250.png" width=20% height=20%> [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)][discord] 
 
 
 <br></br>
