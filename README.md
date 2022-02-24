@@ -1,7 +1,7 @@
 ##  Hey there, I'm Fliper 👋
 
 ### During the day - a husband and a caring father whereas at night I become a passionate Java developer.
- 
+[portfolio](https://f1iper.github.io/ 'Portfolio')
 
 - 🔭 2022 goals: Join open-source project related to Java and Spring + 🔥 **Find a job in IT sector.**
 - 📖 Present task: Learn Spring Security and Docker well enough to use it fluently.
@@ -71,4 +71,5 @@
 [linkedin]: https://www.linkedin.com/in/filip-timofiejew/
 [discord]: https://discord.gg/zaprogramujzycie
 [discordnumber]: https://discordapp.com/users/702632499989315604
+[portfolio]: https://f1iper.github.io/
 
