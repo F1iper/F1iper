@@ -2,7 +2,7 @@
 
 ### During the day - a husband and a caring father whereas at night I become a passionate Java developer.
 
-- ⚡️ [<img align="left" height="27px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][portfolio]
+- ⚡️ [src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />][portfolio]
 - 🔭 2022 goals: Join open-source project related to Java and Spring + 🔥 **Find a job in IT sector.**
 - 📖 Present task: Learn Spring Security and Docker well enough to use it fluently.
 - 🚀 I have many hobbies, but the one I am really fond of is 📸 Aerial photography.
