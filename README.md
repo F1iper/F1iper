@@ -1,12 +1,11 @@
 ##  Hey there, I'm Fliper 👋
 
 ### During the day - a husband and a caring father whereas at night I become a passionate Java developer.
-[portfolio](https://f1iper.github.io/ 'Portfolio')
 
+- ⚡️ ![portfolio](https://f1iper.github.io/ 'Portfolio')
 - 🔭 2022 goals: Join open-source project related to Java and Spring + 🔥 **Find a job in IT sector.**
 - 📖 Present task: Learn Spring Security and Docker well enough to use it fluently.
 - 🚀 I have many hobbies, but the one I am really fond of is 📸 Aerial photography.
-- ⚡️ Fun fact: !(I crashed only **one** drone!)
 
 ---
 
