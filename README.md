@@ -2,10 +2,10 @@
 
 ### During the day - a husband and a caring father whereas at night I become a passionate Java developer.
 
-- ⚡️ This is my [Portfolio][portfolio]
 - 🔭 2022 goals: Join open-source project related to Java and Spring + 🔥 **Find a job in IT sector.**
 - 📖 Present task: Learn Spring Security and Docker well enough to use it fluently.
 - 🚀 I have many hobbies, but the one I am really fond of is 📸 Aerial photography.
+- ⚡️ This is my [Portfolio][portfolio] (work in progress).
 
 ---
 
