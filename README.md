@@ -3,7 +3,7 @@
 ### During the day - a husband and a caring father whereas at night I become a passionate Java developer.
 
 - 🔭 2022 goals: Improve the present project and connect it to the front-end layer + 🔥 **Find a job in IT sector.**
-- 📖 Present task: Learn Spring Security and Docker well enough to use it fluently.
+- 📖 Present tasks: Learn Spring Security and Docker well enough to use it fluently.
 - 🚀 I have many hobbies, but the one I am really fond of is 📸 Aerial photography.
 - ⚡️ Here You can find my work -> [Portfolio][portfolio].
 
