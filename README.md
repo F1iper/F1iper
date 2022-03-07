@@ -5,7 +5,7 @@
 - 🔭 2022 goals: Improve the present project and connect it to the front-end layer + 🔥 **Find a job in IT sector.**
 - 📖 Present task: Learn Spring Security and Docker well enough to use it fluently.
 - 🚀 I have many hobbies, but the one I am really fond of is 📸 Aerial photography.
-- ⚡️ This is my [Portfolio][portfolio] (work in progress).
+- ⚡️ Here You can find my work -> [Portfolio][portfolio].
 
 ---
 
