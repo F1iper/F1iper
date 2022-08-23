@@ -57,9 +57,6 @@
 
 [<img src="https://img.shields.io/badge/Stack%20Overflow-282C34?style=for-the-badge&logo=stackoverflow&logoColor=FE7A16" alt="Stack Overflow logo" title="Stack Overflow" height="27px" />](https://stackoverflow.com/users/11972767/fliper)
 
-### 🤜🤛 I'm happy to be part of the great IT community - Zaprogramuj Życie:
-<img align="center" src="https://github.com/F1iper/F1iper/blob/master/logo-profil-circle_250.png" width=20% height=20%> [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)][discord] 
-
 
 <br></br>
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=F1iper.F1iper)
@@ -69,7 +66,6 @@
 [website]: https://www.google.com
 [github]: https://github.com/F1iper/F1iper
 [linkedin]: https://www.linkedin.com/in/filip-timofiejew/
-[discord]: https://discord.gg/zaprogramujzycie
 [discordnumber]: https://discordapp.com/users/702632499989315604
 [portfolio]: https://f1iper.github.io/
 
