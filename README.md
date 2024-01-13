@@ -71,7 +71,7 @@
 
 
 <br></br>
-
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=F1iper.F1iper)
 
 [git]: https://git-scm.com/
 [gmail]: coderaligator@gmail.com
