@@ -2,7 +2,7 @@
 
 ### During the day - a husband and a caring father whereas at night I become a passionate Java developer
 
-- 📖 Present tasks: Exploring Spring Boot/JavaEE + Docker
+- 📖 Present tasks: Exploring Microservices area + Message brokers (RabbitMQ)
 - 🚀 I have many hobbies, but the one I am really fond of is 📸 Aerial photography
 - ⚡️ Here You can find my work -> [Portfolio][portfolio]
 
