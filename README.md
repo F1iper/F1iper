@@ -74,7 +74,7 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=F1iper.F1iper)
 
 [git]: https://git-scm.com/
-[gmail]: coderaligator@gmail.com
+[gmail]: ftimofiejew@gmail.com
 [website]: https://www.google.com
 [github]: https://github.com/F1iper/F1iper
 [linkedin]: https://www.linkedin.com/in/filip-timofiejew/
