@@ -52,8 +52,8 @@
 ---
 
 ### 🔭 Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=F1iper&repo=The-HR-Division)](https://github.com/F1iper/The-HR-Division)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=F1iper&repo=share-food)](https://github.com/zaprogramuj-zycie/share-food)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=F1iper&repo=ProTasker)](https://github.com/F1iper/ProTasker)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=F1iper&repo=movie-rental-spring)](https://github.com/F1iper/movie-rental-spring)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=F1iper&repo=kamann)](https://github.com/F1iper/kamann)
 
   
