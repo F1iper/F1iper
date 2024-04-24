@@ -60,7 +60,7 @@
 ### 📫 Contact:
 [<img align="left" alt="F1iper | LinkedIn" height="27px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
-[![Gmail Badge](https://img.shields.io/badge/-coderaligator@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:coderaligator@gmail.com)](mailto:coderaligator@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-ftimofiejew@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:coderaligator@gmail.com)](mailto:coderaligator@gmail.com)
 
 
 
