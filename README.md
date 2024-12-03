@@ -42,27 +42,23 @@
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white) 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
+--- 
+
+### 🔭 Current Project
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=F1iper&repo=kamann)](https://github.com/F1iper/kamann)
 
 ---
+
 <!-- [![F1iper's GitHub stats](https://github-readme-stats.vercel.app/api?username=F1iper)](https://github.com/F1iper/) -->
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=F1iper&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&icons_show=true&hide=jupyter%20notebook,tex,css,php">
    <img src ="https://github-readme-streak-stats.herokuapp.com?user=F1iper&theme=darcula&hide_border=true&background=FFFFFF00">
-
-
+   
 ---
-
-### 🔭 Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=F1iper&repo=ProTasker)](https://github.com/F1iper/ProTasker)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=F1iper&repo=movie-rental-spring)](https://github.com/F1iper/movie-rental-spring)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=F1iper&repo=kamann)](https://github.com/F1iper/kamann)
-
   
 ### 📫 Contact:
 [<img align="left" alt="F1iper | LinkedIn" height="27px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
 [![Gmail Badge](https://img.shields.io/badge/-ftimofiejew@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:coderaligator@gmail.com)](mailto:coderaligator@gmail.com)
-
-
 
 [<img align="left" alt="F1iper | Github" height="27px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />][github]
 [![F1iper](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)][discordnumber] 
