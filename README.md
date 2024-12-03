@@ -2,7 +2,7 @@
 
 ### During the day - a husband and a caring father whereas at night I become a passionate Java developer
 
-- 📖 Present task: Implementing reservation service backend, aiming to learn Angular afterwards.
+- 📖 Present task: Implementing REST API for reservation service as backend.
 - 🚀 I have many hobbies, but the one I am really fond of is 📸 photography
 - ⚡️ Portfolio -> [Portfolio][portfolio]
 
