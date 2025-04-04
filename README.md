@@ -9,35 +9,42 @@
 ---
 
 ### 🔧 Technologies & Tools
-![Java](https://img.shields.io/badge/-java-3f4441?style=for-the-badge&logo=java&color=orange) 
+![Java 21](https://img.shields.io/badge/Java_21-f89820?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) 
 ![Spring Badge](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-45C4B0?style=for-the-badge&logo=testing-library&logoColor=white)
+
 ![Docker](https://img.shields.io/badge/-Docker-3f4441?style=for-the-badge&logo=docker)
-
-
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Hibernate](https://img.shields.io/badge/-Hibernate-3f4441?style=for-the-badge&logo=Hibernate&color=blue) 
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Hibernate](https://img.shields.io/badge/-Hibernate-3f4441?style=for-the-badge&logo=Hibernate&color=blue)
 ![Flyway](https://img.shields.io/badge/-flyway-3f4441?style=for-the-badge&logo=flyway&logoColor=red)
 
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-3f4441?style=for-the-badge&logo=Postman)
+![OpenAPI](https://img.shields.io/badge/OpenAPI-3f4441?style=for-the-badge&logo=openapiinitiative&logoColor=white)
+
 ![Git](https://img.shields.io/badge/-Git-3f4441?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-3f4441?style=for-the-badge&logo=github)
 ![GitLab](https://img.shields.io/badge/-gitlab-3f4441?style=for-the-badge&logo=gitlab)
 
-
 ![Maven](https://img.shields.io/badge/Maven-red?style=for-the-badge&logo=maven&logoColor=red)
 ![Gradle](https://img.shields.io/badge/Gradle-316192?style=for-the-badge&logo=gradle&logoColor=lightblue)
 
-
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![](https://img.shields.io/badge/Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
 ![](https://img.shields.io/badge/Windows-informational?style=for-the-badge&logo=windows&logoColor=white)
+
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![JIRA](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
 
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white) 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
