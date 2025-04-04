@@ -1,9 +1,10 @@
 ##  Hey there, I'm Fliper 👋
 
-### Passionate Java developer
+### Java developer
 
-- 📖 Present task: Implementing REST API for reservation service as backend.
-- 🚀 I have many hobbies, but the one I am really fond of is 📸 photography
+- 📖 Present task: Managing the Open Source reservation system project with frontend, backend, and designer teams.
+- 🚀 Hobbies: Passionate about 📸 photography.
+- 🏗️ Focus: Developing skills in system architecture and code quality.
 - ⚡️ Portfolio -> [Portfolio][portfolio]
 
 ---
