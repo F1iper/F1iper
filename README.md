@@ -69,7 +69,7 @@
 
 ---
 
-### 🌐 Stats
+### 📊 Stats
 
 <table>
   <tr>
