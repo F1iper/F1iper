@@ -21,7 +21,6 @@
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-3f4441?style=for-the-badge&logo=docker)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/docs/home/)
 ![Flyway](https://img.shields.io/badge/-flyway-3f4441?style=for-the-badge&logo=flyway&logoColor=red)
 [![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarsource&logoColor=white)](https://docs.sonarsource.com/)
 
@@ -59,6 +58,7 @@
 
 [![Kafka](https://img.shields.io/badge/Kafka-5E5C5C?style=for-the-badge&logo=apache-kafka&logoColor=white)](https://kafka.apache.org/documentation/)
 [![DDD](https://img.shields.io/badge/DDD-303030?style=for-the-badge&logo=databricks&logoColor=white)](https://www.domainlanguage.com/ddd/)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/docs/home/)
 [![TDD](https://img.shields.io/badge/TDD-424242?style=for-the-badge&logo=testing-library&logoColor=white)](https://martinfowler.com/bliki/TestDrivenDevelopment.html)
 [![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-2D2D2D?style=for-the-badge&logo=dependabot&logoColor=white)](https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html)
 
