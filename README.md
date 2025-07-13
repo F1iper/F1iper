@@ -11,13 +11,6 @@
 
 ### 🔧 Technologies & Tools
 
-#### 🚧 Currently Learning / In Progress
-
-[![Kafka](https://img.shields.io/badge/Kafka-5E5C5C?style=for-the-badge&logo=apache-kafka&logoColor=white)](https://kafka.apache.org/documentation/)
-[![DDD](https://img.shields.io/badge/DDD-303030?style=for-the-badge&logo=databricks&logoColor=white)](https://www.domainlanguage.com/ddd/)
-[![TDD](https://img.shields.io/badge/TDD-424242?style=for-the-badge&logo=testing-library&logoColor=white)](https://martinfowler.com/bliki/TestDrivenDevelopment.html)
-[![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-2D2D2D?style=for-the-badge&logo=dependabot&logoColor=white)](https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html)
-
 ![Java 21](https://img.shields.io/badge/Java_21-f89820?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) 
 ![Spring Badge](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white)
@@ -61,6 +54,13 @@
 
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white) 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+
+#### 🚧 Currently Learning / In Progress
+
+[![Kafka](https://img.shields.io/badge/Kafka-5E5C5C?style=for-the-badge&logo=apache-kafka&logoColor=white)](https://kafka.apache.org/documentation/)
+[![DDD](https://img.shields.io/badge/DDD-303030?style=for-the-badge&logo=databricks&logoColor=white)](https://www.domainlanguage.com/ddd/)
+[![TDD](https://img.shields.io/badge/TDD-424242?style=for-the-badge&logo=testing-library&logoColor=white)](https://martinfowler.com/bliki/TestDrivenDevelopment.html)
+[![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-2D2D2D?style=for-the-badge&logo=dependabot&logoColor=white)](https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html)
 
 --- 
 
