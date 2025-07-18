@@ -66,6 +66,7 @@
 
 ### 🔭 Current Project
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dance-reservation-system&repo=Reservation-system)](https://github.com/Dance-reservation-system/Reservation-system)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dance-reservation-system&repo=reservation-system-web)](https://github.com/Dance-reservation-system/reservation-system-web)
 
 ---
 
